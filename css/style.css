@@ -1,0 +1,20 @@
+.dan{
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    border-radius: 20px;
+}
+.bam{
+    width: 250px;
+    height: 40px;
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+}
+.can{
+    width: 250px;
+    height: 40px;
+    background-color: white;
+    color: blue;
+    border-radius: 20px;
+}
